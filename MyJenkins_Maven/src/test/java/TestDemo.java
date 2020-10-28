@@ -10,7 +10,7 @@ public class TestDemo {
 public void testAdd() {
 Demo d = new Demo();
 int ans = d.add(20, 20);
-assertEquals(300, ans);
+assertEquals(400, ans);
 }
 
 }
